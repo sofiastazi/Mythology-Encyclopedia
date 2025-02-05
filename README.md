@@ -11,7 +11,7 @@ The project serves as both an educational resource on mythology and a practical 
 - **GitHub Pages** for hosting  
 
 ## Live Demo  
-You can view the website at: [GitHub Pages Link](sofiastazi.github.io/Mythology-Encyclopedia) 
+You can view the website at: https://sofiastazi.github.io/Mythology-Encyclopedia/
 
 ## License  
 This project is open-source and available under the MIT License.  
