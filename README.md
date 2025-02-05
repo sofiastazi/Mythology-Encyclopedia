@@ -1,4 +1,4 @@
-# Mythology Web Project  
+# Mythology Encyclopedia
 
 This project was created as part of a Coursera course using HTML, CSS, and Bootstrap to build a responsive website about mythology. The site features a flexible and accessible design, incorporating a dynamic navigation menu and Bootstrap components to enhance the user experience.  
 
